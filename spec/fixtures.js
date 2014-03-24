@@ -1,3 +1,13 @@
+var arrayWithValidElements = [
+  'hey', 
+  'yeah', 
+  'this is happening'
+]
+
+var objectWithInvalidAttributes = {
+  yeah: undefined
+}
+
 var stringifiableValues = [
   9,
   null,

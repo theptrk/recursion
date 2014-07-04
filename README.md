@@ -1,6 +1,5 @@
-#recursion
+#recursion at hack reactor
 
-This is a copy of the work I did on a private repo, originally a project from
-[Hack Reactor's](http://hackreactor.com) curriculum. This project was worked
-on with a pair; it's representative of the kind of problems that I've tackled,
-but not of my solo work.
+Intro to recursion done as a student at Hack Reactor.
+While recursion curriculum was continued for after this
+introductory repo, this is left preserved and untouched.
